@@ -1,7 +1,5 @@
 # Celestial_Dragon
 
-Celestial Dragon
-
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four light years away and things aren't looking good. The Celestial Dragon was an interstellar passenger liner launched a month ago. 
 With almost 13,000 passengers on board, the vessel set out on its maiden voyage 
 transporting emigrants from our solar system to three newly habitable exoplanets 
